@@ -1,2 +1,2 @@
 # Applied-Machine-Learning
-Codes for Assignments
+These contain codes I have learnt and written for assignments of the Applied Machine Leaning course I have taken under Rajiv Kulkarni
